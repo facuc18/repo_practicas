@@ -1,0 +1,23 @@
+1-La función sigmoide es una función matemática caracterizada por una curva en forma de "S" que transforma cualquier valor de entrada real en un rango limitado entre 0 y 1.
+
+b)funcion=σ(x)= 1/1+e^-x       e≈2.71828
+x=-3
+1/1+e^-(-3)=0.474
+
+x=-1
+1/1+e^-(-1)=0.268
+
+x=0
+1/1+e^-0=0.5
+
+x=2
+1/1+e^-2=0.880
+
+x=5
+1/1+e^-5=0,993
+
+ 2-mientras mas negativo el numero mas se acerca a cero
+-mientras mas positivo el numero mas se acerca a 1
+-esto se debo a que sigmod toma cualquier numeroo real y lo comprime en un rango del 0 y 1 .  Esta salida se interpreta como una probabilidad
+
+​
